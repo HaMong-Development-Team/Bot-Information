@@ -11,4 +11,4 @@
 
 ## 서포트서버
 - <a href = "https://discord.gg/qHrPnScaCV">들어가기</a>
-- <a href = "https://discord.gg/qHrPnScaCV">규칙확인</a>
+- <a href = "https://github.com/HaMong-Development-Team/Support-Server-Information">규칙확인</a>
