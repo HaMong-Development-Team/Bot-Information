@@ -6,8 +6,8 @@
 - 이츠
 - lionerooney
 
-## 업데이트날
-2020/02/10
+## 업데이트 날짜
+2022/02/10
 
 ## 명령어
 - 하뭉아 가입 - ``가입을 하는 명령어``
@@ -18,5 +18,5 @@
 - 하뭉아 도박 [금액] - ``도박을 함``
 
 ## 서포트서버
-- <a href = "https://discord.gg/qHrPnScaCV">들어가기</a>
-- <a href = "https://github.com/HaMong-Development-Team/Support-Server-Information">규칙확인</a>
+- <a href = "https://discord.gg/qHrPnScaCV">서버에 참가하기</a>
+- <a href = "https://github.com/HaMong-Development-Team/Support-Server-Information">커뮤니티 규칙 확인</a>
